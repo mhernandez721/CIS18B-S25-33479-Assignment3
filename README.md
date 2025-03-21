@@ -13,4 +13,4 @@ bankingApp (packet)
   
 # How does it work
 
-This app can give you an account with an account number and allow you to widthdrawal and deposit money using a PIN number to secure your transactions.
+This app can give you an account with an account number and allow you to widthdrawal and deposit money using a PIN number to secure your transactions. It uses custom exceptions and observers to log and protect the transaction and to prevent the app from breaking.
